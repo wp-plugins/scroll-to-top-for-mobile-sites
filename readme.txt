@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The errnio Mobile **Scroll to Top** plugin adds a button at the bottom-right of the site, once the user scrolls down. The button takes the user up to the top of the site, scrolling to the top. A search box to your mobile site is also added, which lets users search your site in a mobile friendly, intuitive search experience, improving retention to your mobile site.
+The errnio Mobile Scroll to Top plugin adds a button at the bottom-right of the site, once the user scrolls down.
 
 == Description ==
 
@@ -84,7 +84,7 @@ After everything is ready you can manage your plugin on the errnio dashboard and
 
 = What are the rates? How much money can I make? =
 We have a simple revenue share program which you can access once registered.
-You can contact us for more information sales@errnio.com
+You can contact us for more information info@errnio.com
 
 = Can errnio harm my site code or functionality? =
 Absolutely NO! errnio is fully encapsulated from your code(or WP code) and can in no way impact anything in your site.
