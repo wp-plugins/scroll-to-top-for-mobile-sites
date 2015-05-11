@@ -108,8 +108,12 @@ Here's screenshots of our design and feature set:
 
 1.0 version release
 
+1.1 Register to errnio directly from the plugin settings page
+
 == Upgrade Notice ==
 
 0.1 beta release
 
 1.0 version release
+
+1.1 Register to errnio directly from the plugin settings page
